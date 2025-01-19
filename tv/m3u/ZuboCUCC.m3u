@@ -113,7 +113,7 @@ http://124.90.44.40:6060/010/2/00000001000000060000000000000578?virtualDomain=01
 http://124.90.44.40:6060/010/2/00000001000000060000000000000572?virtualDomain=010.live_hls.zte.com
 #EXTINF:-1 tvg-name="浙江钱江都市" tvg-logo="https://live.fanmingming.cn/tv/钱江都市.png" group-title="浙江频道",浙江钱江
 http://124.90.44.40:6060/010/2/00000001000000060000000000000571?virtualDomain=010.live_hls.zte.com
-#EXTINF:-1 tvg-name="温州一套" tvg-logo="https://live.fanmingming.cn/tv/温州.png" group-title="浙江频道",温州一套
+#EXTINF:-1 tvg-name="温州一套" tvg-logo="https://raw.githubusercontent.com/Mitchell08/live/refs/heads/main/tv/m3u/%E6%B8%A9%E5%B7%9E%E4%B8%80%E5%A5%97.png" group-title="浙江频道",温州一套
 http://124.90.44.40:6060/010/2/00000001000000060000000000000490?virtualDomain=010.live_hls.zte.com
 #EXTINF:-1 tvg-name="内蒙古综合" tvg-logo="https://live.fanmingming.cn/tv/内蒙古新闻综合.png" group-title="内蒙频道",内蒙新闻
 https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=b4373417a82ed64e52b0982a66da8df2&txTime=771E8800
